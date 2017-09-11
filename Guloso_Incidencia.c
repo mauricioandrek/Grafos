@@ -70,6 +70,5 @@ int main() {
 	}	
 	printf("\n\nTotal Percorido: %d\n",totalPercorido);
 
-
 	return 0;
 }
