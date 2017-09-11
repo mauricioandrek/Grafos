@@ -100,7 +100,7 @@ int main(int argc, char *argv[]) {
 	// 4 -> 3
 	// 5 -> 4
 	// 6 -> 5
-	// Objetivo -> 6
+	// Objetivo -> 6	
 	// Começa pelo vertice 1 (Inicio)
 	int matrizB[7][7];
 	int *jaPassouB;
